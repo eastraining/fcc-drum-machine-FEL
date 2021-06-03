@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/fcc-drum-machine-FEL/static/css/main.33e3fe8a.chunk.css",
+    "main.js": "/fcc-drum-machine-FEL/static/js/main.9a3044fc.chunk.js",
+    "main.js.map": "/fcc-drum-machine-FEL/static/js/main.9a3044fc.chunk.js.map",
+    "runtime-main.js": "/fcc-drum-machine-FEL/static/js/runtime-main.7bcbc03b.js",
+    "runtime-main.js.map": "/fcc-drum-machine-FEL/static/js/runtime-main.7bcbc03b.js.map",
+    "static/js/2.a08f3fb4.chunk.js": "/fcc-drum-machine-FEL/static/js/2.a08f3fb4.chunk.js",
+    "static/js/2.a08f3fb4.chunk.js.map": "/fcc-drum-machine-FEL/static/js/2.a08f3fb4.chunk.js.map",
+    "index.html": "/fcc-drum-machine-FEL/index.html",
+    "static/css/main.33e3fe8a.chunk.css.map": "/fcc-drum-machine-FEL/static/css/main.33e3fe8a.chunk.css.map",
+    "static/js/2.a08f3fb4.chunk.js.LICENSE.txt": "/fcc-drum-machine-FEL/static/js/2.a08f3fb4.chunk.js.LICENSE.txt",
+    "static/media/ChopSnare_C.7172e733.wav": "/fcc-drum-machine-FEL/static/media/ChopSnare_C.7172e733.wav",
+    "static/media/Clang.87e2a66f.wav": "/fcc-drum-machine-FEL/static/media/Clang.87e2a66f.wav",
+    "static/media/ClosedHihat.88598516.wav": "/fcc-drum-machine-FEL/static/media/ClosedHihat.88598516.wav",
+    "static/media/FluteLoop.dde52814.wav": "/fcc-drum-machine-FEL/static/media/FluteLoop.dde52814.wav",
+    "static/media/GuitarLoop140BPM.e5d1718f.wav": "/fcc-drum-machine-FEL/static/media/GuitarLoop140BPM.e5d1718f.wav",
+    "static/media/GuitarLoop160BPM.58befde6.wav": "/fcc-drum-machine-FEL/static/media/GuitarLoop160BPM.58befde6.wav",
+    "static/media/HiThud.8925c07b.wav": "/fcc-drum-machine-FEL/static/media/HiThud.8925c07b.wav",
+    "static/media/HihatLoop110BPM.57a837c4.wav": "/fcc-drum-machine-FEL/static/media/HihatLoop110BPM.57a837c4.wav",
+    "static/media/HihatLoop160BPM.26912159.wav": "/fcc-drum-machine-FEL/static/media/HihatLoop160BPM.26912159.wav",
+    "static/media/Kick_C.71d656ed.wav": "/fcc-drum-machine-FEL/static/media/Kick_C.71d656ed.wav",
+    "static/media/LowThud.d82121e0.wav": "/fcc-drum-machine-FEL/static/media/LowThud.d82121e0.wav",
+    "static/media/OpenHihat.587a8a69.wav": "/fcc-drum-machine-FEL/static/media/OpenHihat.587a8a69.wav",
+    "static/media/PercussionLoop100BPM.7df29a0b.wav": "/fcc-drum-machine-FEL/static/media/PercussionLoop100BPM.7df29a0b.wav",
+    "static/media/PercussionLoop160BPM.ffb53540.wav": "/fcc-drum-machine-FEL/static/media/PercussionLoop160BPM.ffb53540.wav",
+    "static/media/RideHihat.d396a31f.wav": "/fcc-drum-machine-FEL/static/media/RideHihat.d396a31f.wav",
+    "static/media/RimshotSnare.36e89db0.wav": "/fcc-drum-machine-FEL/static/media/RimshotSnare.36e89db0.wav",
+    "static/media/TopLoop100BPM.2b6e3320.wav": "/fcc-drum-machine-FEL/static/media/TopLoop100BPM.2b6e3320.wav",
+    "static/media/TopLoop170BPM.0092296a.wav": "/fcc-drum-machine-FEL/static/media/TopLoop170BPM.0092296a.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7bcbc03b.js",
+    "static/js/2.a08f3fb4.chunk.js",
+    "static/css/main.33e3fe8a.chunk.css",
+    "static/js/main.9a3044fc.chunk.js"
+  ]
+}
