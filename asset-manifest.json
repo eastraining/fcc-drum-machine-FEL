@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/fcc-drum-machine-FEL/static/css/main.33e3fe8a.chunk.css",
+    "main.css": "/fcc-drum-machine-FEL/static/css/main.8c13a223.chunk.css",
     "main.js": "/fcc-drum-machine-FEL/static/js/main.9a3044fc.chunk.js",
     "main.js.map": "/fcc-drum-machine-FEL/static/js/main.9a3044fc.chunk.js.map",
     "runtime-main.js": "/fcc-drum-machine-FEL/static/js/runtime-main.7bcbc03b.js",
@@ -8,7 +8,7 @@
     "static/js/2.a08f3fb4.chunk.js": "/fcc-drum-machine-FEL/static/js/2.a08f3fb4.chunk.js",
     "static/js/2.a08f3fb4.chunk.js.map": "/fcc-drum-machine-FEL/static/js/2.a08f3fb4.chunk.js.map",
     "index.html": "/fcc-drum-machine-FEL/index.html",
-    "static/css/main.33e3fe8a.chunk.css.map": "/fcc-drum-machine-FEL/static/css/main.33e3fe8a.chunk.css.map",
+    "static/css/main.8c13a223.chunk.css.map": "/fcc-drum-machine-FEL/static/css/main.8c13a223.chunk.css.map",
     "static/js/2.a08f3fb4.chunk.js.LICENSE.txt": "/fcc-drum-machine-FEL/static/js/2.a08f3fb4.chunk.js.LICENSE.txt",
     "static/media/ChopSnare_C.7172e733.wav": "/fcc-drum-machine-FEL/static/media/ChopSnare_C.7172e733.wav",
     "static/media/Clang.87e2a66f.wav": "/fcc-drum-machine-FEL/static/media/Clang.87e2a66f.wav",
@@ -32,7 +32,7 @@
   "entrypoints": [
     "static/js/runtime-main.7bcbc03b.js",
     "static/js/2.a08f3fb4.chunk.js",
-    "static/css/main.33e3fe8a.chunk.css",
+    "static/css/main.8c13a223.chunk.css",
     "static/js/main.9a3044fc.chunk.js"
   ]
 }
