@@ -1,38 +1,95 @@
-.App {
-  text-align: center;
+:root {
+  --site-black: rgb(14, 14, 14);
+  --site-white: rgb(240, 240, 240);
+  --site-grey: rgb(112, 112, 112);
+  --site-dark-grey: rgb(50, 50, 50);
+  --primary-color: rgb(64, 65, 9);
+  --button-size: 4.7em;
+  --gap-size: 0.8em;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+html, body {
+  height: 100%
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+body {
+  background-color: var(--primary-color);
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+body, .container {
   display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.container {
+  justify-content: space-between;
+  background-color: var(--site-grey);
+  height: 300px;
+  width: 650px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+#display-panel {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column;
+  font-family: inherit;
+}
+
+#display {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.5em;
+  height: 50px;
+  width: 180px;
+  margin-left: 85px;
+  background-color: var(--primary-color);
+  color: var(--site-white);
+}
+
+.clickable {
+  font-family: inherit;
+  font-size: 1.5em;
+  margin-left: 85px;
+  margin-top: 50px;
+  padding: 10px;
+  text-decoration: none;
+  background-color: var(--site-dark-grey);
+  color: var(--site-white);
+  transition: all 0.1s;
+  cursor: pointer;
+  border: 2px solid var(--site-black);
+  outline: none;
+}
+
+.clickable:hover {
+  filter: brightness(130%);
+}
+
+.drum-pad-wrapper {
+  display: grid;
+  margin-right: 30px;
+  grid-template-columns: repeat(3, var(--button-size));
+  gap: var(--gap-size);
+  grid-auto-rows: var(--button-size);
+  height: 3 * var(--button-size) + 2 * var(--gap-size);
+  width: 3 * var(--button-size) + 2 * var(--gap-size);
+}
+
+.drum-pad {
+  background-color: var(--site-dark-grey);
+  color: var(--site-white);
+  border: 2px solid var(--site-black);
+  font-size: 1.5em;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.active {
+  filter: brightness(130%);
 }
